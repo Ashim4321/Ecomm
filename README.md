@@ -1,2 +1,3 @@
 # Ecomm
-This is my ecom project...
+This is my ecom project...\n
+Ashim Mistry
